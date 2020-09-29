@@ -1,0 +1,12 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\BlackJack-master\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
